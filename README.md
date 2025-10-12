@@ -5,4 +5,4 @@ GBC Comp1238
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates)
 
-[COMP1238 Notes] (comp1238.md) 
+[COMP1238 Notes](comp1238.md) 
